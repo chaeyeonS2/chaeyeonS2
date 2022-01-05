@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=160&section=header&text=Hi!%20I'm%20Chaeyeon!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
-<br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=160&section=header&text=Hi!%20I'm%20Chaeyeon!&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=000000)
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
 I'm student 😎<br>
@@ -25,3 +24,4 @@ I love duck 🐤
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyeon-kelina&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
